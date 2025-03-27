@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using StudentX.StudentXPortal.Data;
 using StudentX.StudentXPortal.Models;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace StudentX.StudentXPortal.Controllers
 {
@@ -22,9 +24,13 @@ namespace StudentX.StudentXPortal.Controllers
             _context = context;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var users = await _context.Users
+            .Where(u => !u.IsDeleted)
+            .AsNoTracking()
+            .ToListAsync();
+            return View(users);
         }
 
         [HttpGet("CreateUser")]
@@ -100,7 +106,7 @@ namespace StudentX.StudentXPortal.Controllers
         [HttpPost("DeleteUser/{id}")]
         public async Task<IActionResult> DeleteUser(int id)
         {
-            var user = await _context.Users.FirstOrDefaultAsync(i => i.Id = id && !i.IsDeleted);
+            var user = await _context.Users.FirstOrDefaultAsync(i => i.Id == id && !i.IsDeleted);
 
             if (user == null)
             {
