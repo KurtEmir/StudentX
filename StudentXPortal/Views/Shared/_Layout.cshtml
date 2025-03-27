@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - StudentXPortal</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/StudentXPortal.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/theme.css">
+    <link rel="stylesheet" href="~/lib/vendor/bootstrap-4.1/bootstrap.min.css">
+    @RenderSection("Styles", required: false)
+
+</head>
+
+<body>
+    <header>
+        <!-- MENU SIDEBAR-->
+        <aside class="menu-sidebar ">
+            <div class="menu-sidebar__content">
+                <nav class="navbar-sidebar">
+                    <ul class="list-unstyled navbar__list">
+                        <li>
+                            <a asp-controller="Home" asp-action="Index">
+                                <i class="menu_main_item"></i> Ana Sayfa
+                            </a>
+                        </li>
+                        <!-- Eğitim İşlemleri -->
+                        <li class="has-sub">
+                            <a class="js-submenu" href="#">
+                                <i class="menu_main_item"></i> Eğitim İşlemleri
+                            </a>
+                            <ul class="list-unstyled navbar__sub-list js-sub-list">
+                                <li>
+                                    <a asp-controller="Educations" asp-action="Create">Eğitim Ekle</a>
+                                </li>
+                                <li>
+                                    <a asp-controller="Educations" asp-action="Index">Eğitim İçeriği Ekle</a>
+                                </li>
+                                <li>
+                                    <a asp-controller="Educations" asp-action="Index">Eğitim Listesi</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <!-- Öğrenci İşlemleri -->
+                        <li class="has-sub">
+                            <a class="js-submenu" href="#">
+                                <i class="menu_main_item"></i> Öğrenci İşlemleri
+                            </a>
+                            <ul class="list-unstyled navbar__sub-list js-sub-list">
+                                <li>
+                                    <a asp-controller="Students" asp-action="Create">Öğrenci Ekle</a>
+                                </li>
+                                <li>
+                                    <a asp-controller="Students" asp-action="Index">Öğrenci Listesi</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </aside>
+        <!-- END MENU SIDEBAR-->
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        $(document).ready(function () {
+            $('.js-submenu').click(function (e) {
+                e.preventDefault();
+                $(this).parent('.has-sub').toggleClass('active');
+            });
+        });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

@@ -1,0 +1,1057 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/obj/Debug/net8.0/scopedcss/projectbundle/StudentXPortal.bundle.scp.css",
+      "PackagePath": "staticwebassets/StudentXPortal.pl7jdslbue.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/css/theme.css",
+      "PackagePath": "staticwebassets/css/theme.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/animsition/animsition.min.css",
+      "PackagePath": "staticwebassets/lib/vendor/animsition/animsition.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/animsition/animsition.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/animsition/animsition.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/bootstrap-4.1/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/vendor/bootstrap-4.1/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/bootstrap-4.1/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/bootstrap-4.1/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/bootstrap-4.1/popper.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/bootstrap-4.1/popper.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/bootstrap-progressbar/bootstrap-progressbar-3.3.4.min.css",
+      "PackagePath": "staticwebassets/lib/vendor/bootstrap-progressbar/bootstrap-progressbar-3.3.4.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/bootstrap-progressbar/bootstrap-progressbar.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/bootstrap-progressbar/bootstrap-progressbar.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/chartjs/Chart.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/chartjs/Chart.bundle.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/circle-progress/circle-progress.js",
+      "PackagePath": "staticwebassets/lib/vendor/circle-progress/circle-progress.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/circle-progress/circle-progress.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/circle-progress/circle-progress.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/countdown/countdowntime.js",
+      "PackagePath": "staticwebassets/lib/vendor/countdown/countdowntime.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/countdown/jquery.countdown.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/countdown/jquery.countdown.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/countdown/moment-timezone-with-data.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/countdown/moment-timezone-with-data.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/countdown/moment-timezone.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/countdown/moment-timezone.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/countdown/moment.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/countdown/moment.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/counter-up/jquery.counterup.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/counter-up/jquery.counterup.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/counter-up/jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/counter-up/jquery.waypoints.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/counter-up/waypoints.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/counter-up/waypoints.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/css-hamburgers/hamburgers.css",
+      "PackagePath": "staticwebassets/lib/vendor/css-hamburgers/hamburgers.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/css-hamburgers/hamburgers.min.css",
+      "PackagePath": "staticwebassets/lib/vendor/css-hamburgers/hamburgers.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-4.7/HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-4.7/HELP-US-OUT.txt"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-4.7/css/font-awesome.css",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-4.7/css/font-awesome.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-4.7/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-4.7/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-4.7/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-4.7/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-4.7/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-4.7/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-4.7/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-4.7/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-4.7/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-4.7/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-4.7/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-4.7/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-4.7/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-4.7/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/css/fontawesome-all.min.css",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/css/fontawesome-all.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/font-awesome-5/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/lib/vendor/font-awesome-5/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/CHANGELOG.txt",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/CHANGELOG.txt"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/CONTRIBUTING.txt",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/CONTRIBUTING.txt"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/README.txt",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/README.txt"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/fullcalendar.css",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/fullcalendar.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/fullcalendar.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/fullcalendar.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/fullcalendar.min.css",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/fullcalendar.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/fullcalendar.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/fullcalendar.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/fullcalendar.print.css",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/fullcalendar.print.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/fullcalendar.print.min.css",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/fullcalendar.print.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/gcal.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/gcal.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/gcal.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/gcal.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/lib/moment.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/lib/moment.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale-all.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale-all.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/af.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/af.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ar-dz.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ar-dz.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ar-kw.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ar-kw.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ar-ly.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ar-ly.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ar-ma.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ar-ma.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ar-sa.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ar-sa.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ar-tn.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ar-tn.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ar.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ar.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/be.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/be.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/bg.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/bg.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/bs.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/bs.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ca.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ca.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/cs.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/cs.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/da.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/da.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/de-at.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/de-at.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/de-ch.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/de-ch.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/de.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/de.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/el.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/el.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/en-au.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/en-au.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/en-ca.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/en-ca.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/en-gb.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/en-gb.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/en-ie.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/en-ie.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/en-nz.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/en-nz.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/es-do.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/es-do.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/es-us.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/es-us.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/es.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/es.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/et.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/et.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/eu.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/eu.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/fa.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/fa.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/fi.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/fi.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/fr-ca.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/fr-ca.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/fr-ch.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/fr-ch.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/fr.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/fr.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/gl.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/gl.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/he.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/he.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/hi.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/hi.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/hr.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/hr.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/hu.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/hu.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/id.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/id.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/is.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/is.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/it.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/it.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ja.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ja.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ka.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ka.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/kk.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/kk.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ko.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ko.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/lb.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/lb.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/lt.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/lt.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/lv.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/lv.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/mk.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/mk.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ms-my.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ms-my.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ms.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ms.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/nb.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/nb.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/nl-be.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/nl-be.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/nl.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/nl.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/nn.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/nn.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/pl.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/pl.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/pt-br.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/pt-br.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/pt.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/pt.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ro.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ro.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/ru.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/ru.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/sk.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/sk.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/sl.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/sl.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/sq.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/sq.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/sr-cyrl.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/sr-cyrl.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/sr.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/sr.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/sv.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/sv.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/th.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/th.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/tr.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/tr.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/uk.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/uk.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/vi.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/vi.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/zh-cn.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/zh-cn.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/zh-hk.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/zh-hk.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/fullcalendar-3.10.0/locale/zh-tw.js",
+      "PackagePath": "staticwebassets/lib/vendor/fullcalendar-3.10.0/locale/zh-tw.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/jquery-ui.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/jquery-ui.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/dist/css/lightbox.css",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/dist/css/lightbox.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/dist/images/close.png",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/dist/images/close.png"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/dist/images/loading.gif",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/dist/images/loading.gif"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/dist/images/next.png",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/dist/images/next.png"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/dist/images/prev.png",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/dist/images/prev.png"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/dist/js/lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/dist/js/lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/dist/js/lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/dist/js/lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/dist/js/lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/dist/js/lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/dist/js/lightbox.js",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/dist/js/lightbox.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/dist/js/lightbox.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/dist/js/lightbox.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/dist/js/lightbox.min.map",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/dist/js/lightbox.min.map"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/src/css/lightbox.css",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/src/css/lightbox.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/src/images/close.png",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/src/images/close.png"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/src/images/loading.gif",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/src/images/loading.gif"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/src/images/next.png",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/src/images/next.png"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/src/images/prev.png",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/src/images/prev.png"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/lightbox2/src/js/lightbox.js",
+      "PackagePath": "staticwebassets/lib/vendor/lightbox2/src/js/lightbox.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/mdi-font/css/material-design-iconic-font.css",
+      "PackagePath": "staticwebassets/lib/vendor/mdi-font/css/material-design-iconic-font.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/mdi-font/css/material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets/lib/vendor/mdi-font/css/material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/mdi-font/fonts/Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets/lib/vendor/mdi-font/fonts/Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/mdi-font/fonts/Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets/lib/vendor/mdi-font/fonts/Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/mdi-font/fonts/Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets/lib/vendor/mdi-font/fonts/Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets/lib/vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets/lib/vendor/mdi-font/fonts/Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/perfect-scrollbar/perfect-scrollbar.css",
+      "PackagePath": "staticwebassets/lib/vendor/perfect-scrollbar/perfect-scrollbar.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/perfect-scrollbar/perfect-scrollbar.js",
+      "PackagePath": "staticwebassets/lib/vendor/perfect-scrollbar/perfect-scrollbar.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/perfect-scrollbar/perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/perfect-scrollbar/perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/progressbar/progressbar.js",
+      "PackagePath": "staticwebassets/lib/vendor/progressbar/progressbar.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/progressbar/progressbar.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/progressbar/progressbar.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/select2/select2.min.css",
+      "PackagePath": "staticwebassets/lib/vendor/select2/select2.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/select2/select2.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/select2/select2.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/slick/ajax-loader.gif",
+      "PackagePath": "staticwebassets/lib/vendor/slick/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/slick/config.rb",
+      "PackagePath": "staticwebassets/lib/vendor/slick/config.rb"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/slick/fonts/slick.eot",
+      "PackagePath": "staticwebassets/lib/vendor/slick/fonts/slick.eot"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/slick/fonts/slick.svg",
+      "PackagePath": "staticwebassets/lib/vendor/slick/fonts/slick.svg"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/slick/fonts/slick.ttf",
+      "PackagePath": "staticwebassets/lib/vendor/slick/fonts/slick.ttf"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/slick/fonts/slick.woff",
+      "PackagePath": "staticwebassets/lib/vendor/slick/fonts/slick.woff"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/slick/slick-theme.css",
+      "PackagePath": "staticwebassets/lib/vendor/slick/slick-theme.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/slick/slick-theme.less",
+      "PackagePath": "staticwebassets/lib/vendor/slick/slick-theme.less"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/slick/slick-theme.scss",
+      "PackagePath": "staticwebassets/lib/vendor/slick/slick-theme.scss"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/slick/slick.css",
+      "PackagePath": "staticwebassets/lib/vendor/slick/slick.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/slick/slick.js",
+      "PackagePath": "staticwebassets/lib/vendor/slick/slick.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/slick/slick.less",
+      "PackagePath": "staticwebassets/lib/vendor/slick/slick.less"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/slick/slick.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/slick/slick.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/slick/slick.scss",
+      "PackagePath": "staticwebassets/lib/vendor/slick/slick.scss"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/smk-accordion/accordion.css",
+      "PackagePath": "staticwebassets/lib/vendor/smk-accordion/accordion.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/smk-accordion/accordion.js",
+      "PackagePath": "staticwebassets/lib/vendor/smk-accordion/accordion.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/smk-accordion/accordion.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/smk-accordion/accordion.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/sweetalert/sweetalert.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/sweetalert/sweetalert.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/vector-map/jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets/lib/vendor/vector-map/jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/vector-map/jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets/lib/vendor/vector-map/jquery.vmap.europe.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/vector-map/jquery.vmap.france.js",
+      "PackagePath": "staticwebassets/lib/vendor/vector-map/jquery.vmap.france.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/vector-map/jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets/lib/vendor/vector-map/jquery.vmap.germany.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/vector-map/jquery.vmap.js",
+      "PackagePath": "staticwebassets/lib/vendor/vector-map/jquery.vmap.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/vector-map/jquery.vmap.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/vector-map/jquery.vmap.min.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/vector-map/jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets/lib/vendor/vector-map/jquery.vmap.russia.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/vector-map/jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets/lib/vendor/vector-map/jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/vector-map/jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets/lib/vendor/vector-map/jquery.vmap.usa.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/vector-map/jquery.vmap.world.js",
+      "PackagePath": "staticwebassets/lib/vendor/vector-map/jquery.vmap.world.js"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/vector-map/jqvmap.min.css",
+      "PackagePath": "staticwebassets/lib/vendor/vector-map/jqvmap.min.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/wow/animate.css",
+      "PackagePath": "staticwebassets/lib/vendor/wow/animate.css"
+    },
+    {
+      "Id": "/Users/emir/Desktop/StudentX/StudentXPortal/wwwroot/lib/vendor/wow/wow.min.js",
+      "PackagePath": "staticwebassets/lib/vendor/wow/wow.min.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.StudentXPortal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.StudentXPortal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.StudentXPortal.props",
+      "PackagePath": "build\\StudentXPortal.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.StudentXPortal.props",
+      "PackagePath": "buildMultiTargeting\\StudentXPortal.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.StudentXPortal.props",
+      "PackagePath": "buildTransitive\\StudentXPortal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

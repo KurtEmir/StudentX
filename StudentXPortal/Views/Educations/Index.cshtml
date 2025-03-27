@@ -1,0 +1,107 @@
+@{
+    ViewData["Title"] = "Eğitim İçerikleri";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Bu varsa, tam HTML'e gerek yok
+}
+
+<head>
+    <!-- Required meta tags-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="au theme template">
+    <meta name="author" content="Hau Nguyen">
+    <meta name="keywords" content="au theme template">
+
+    <!-- Title Page-->
+    <title>Dashboard</title>
+
+    <!-- Bootstrap CSS-->
+    <link href="~/lib/vendor/bootstrap-4.1/bootstrap.min.css" rel="stylesheet" media="all">
+
+    <!-- Main CSS-->
+    <link rel="stylesheet" href="~/css/theme.css">
+
+</head>
+
+<body>
+    <div class="page-container">
+        <p class="sub-header">Hangi konu hakkında eğitim içeriği eklemek istiyorsunuz?</p>
+        <br>
+        <select name="subject" id="subject"> <!-- Burada valuelar düzeltilecek -->>
+            <option value="volvo">Yapay Zekananın Temelleri</option>
+            <option value="saab">Makine Öğrenmesi</option>
+            <option value="mercedes">Sinir Ağları</option>
+            <option value="audi">Etik ve Yapay Zeka</option>
+            <option value="audi">Robotik ve Otomasyon</option>
+            <option value="audi">Yapay Zeka Algoritmaları</option>
+            <option value="audi">Gelecekte Yapay Zeka</option>
+        </select>
+        <br><br>
+        <p class="sub-header">Seçtiğiniz konu için öğrencilerinize test hazırlayın her soru için 3 adet şık belirtin</p>
+        <br>
+        <form>
+            <div class="form-group">
+                <label for="exampleContent">Girmek istediğiniz 1. İçerik</label>
+                <textarea class="form-control" id="exampleContent" rows="3"></textarea>
+                <label for="answer">1. Şık:</label>
+                <input type="text" id="firstq_answer" name="answer" class="input_answer"> <br>
+                <label for="fname">2. Şık:</label>
+                <input type="text" id="firstq_answer" name="answer" class="input_answer"> <br>
+                <label for="fname">3. Şık:</label>
+                <input type="text" id="firstq_answer" name="answer" class="input_answer">
+            </div>
+            <div class="form-group">
+
+            </div>
+            <div class="form-group">
+                <label for="exampleContent2">Girmek istediğiniz 2. İçerik</label>
+                <textarea class="form-control" id="exampleContent2" rows="3"></textarea>
+                <label for="answer">1. Şık:</label>
+                <input type="text" id="secondq_answer" name="answer" class="input_answer"> <br>
+                <label for="fname">2. Şık:</label>
+                <input type="text" id="secondq_answer" name="answer" class="input_answer"> <br>
+                <label for="fname">3. Şık:</label>
+                <input type="text" id="secondq_answer" name="answer" class="input_answer">
+
+            </div>
+            <div class="form-group">
+                <label for="exampleContent3">Girmek istediğiniz 3. İçerik</label>
+                <textarea class="form-control" id="exampleContent3" rows="3"></textarea>
+                <label for="answer">1. Şık:</label>
+                <input type="text" id="third_answer" name="answer" class="input_answer"> <br>
+                <label for="fname">2. Şık:</label>
+                <input type="text" id="third_answer" name="answer" class="input_answer"> <br>
+                <label for="fname">3. Şık:</label>
+                <input type="text" id="third_answer" name="answer" class="input_answer">
+
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+
+    <!-- Jquery JS-->
+    <script src="vendor/jquery-3.2.1.min.js"></script>
+    <!-- Bootstrap JS-->
+    <script src="vendor/bootstrap-4.1/popper.min.js"></script>
+    <script src="vendor/bootstrap-4.1/bootstrap.min.js"></script>
+    <!-- Vendor JS       -->
+    <script src="vendor/slick/slick.min.js">
+    </script>
+    <script src="vendor/wow/wow.min.js"></script>
+    <script src="vendor/animsition/animsition.min.js"></script>
+    <script src="vendor/bootstrap-progressbar/bootstrap-progressbar.min.js">
+    </script>
+    <script src="vendor/counter-up/jquery.waypoints.min.js"></script>
+    <script src="vendor/counter-up/jquery.counterup.min.js">
+    </script>
+    <script src="vendor/circle-progress/circle-progress.min.js"></script>
+    <script src="vendor/perfect-scrollbar/perfect-scrollbar.js"></script>
+    <script src="vendor/chartjs/Chart.bundle.min.js"></script>
+    <script src="vendor/select2/select2.min.js">
+    </script>
+
+    <!-- Main JS-->
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>

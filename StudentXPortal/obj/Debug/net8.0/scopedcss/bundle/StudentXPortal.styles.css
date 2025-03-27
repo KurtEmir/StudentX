@@ -1,0 +1,51 @@
+/* _content/StudentXPortal/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-xta1d1appu] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-xta1d1appu] {
+  color: #f6fbff !important;
+}
+
+
+
+.btn-primary[b-xta1d1appu] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-xta1d1appu], .nav-pills .show > .nav-link[b-xta1d1appu] {
+  color: #ffffff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-xta1d1appu] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-xta1d1appu] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-xta1d1appu] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-xta1d1appu] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-xta1d1appu] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
