@@ -1,0 +1,33 @@
+@model StudentX.StudentXPortal.Models.Course
+
+@{
+    ViewData["Title"] = "Update Course";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/theme.css" />
+}
+
+<div class="page-container">
+
+    <h2>Kurs Güncelle</h2>
+
+    <form asp-action="UpdateCourse" asp-route-id="@Model.Id" method="post">
+        @Html.AntiForgeryToken()
+
+        <div class="form-group">
+            <label asp-for="CourseName" class="control-label"></label>
+            <input asp-for="CourseName" class="form-control" />
+            <span asp-validation-for="CourseName" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-2">Güncelle</button>
+        <a asp-action="Index" class="btn btn-secondary mt-2">İptal</a>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

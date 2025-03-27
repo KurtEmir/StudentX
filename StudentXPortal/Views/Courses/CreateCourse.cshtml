@@ -1,0 +1,32 @@
+@model StudentX.StudentXPortal.Models.Course
+
+@{
+    ViewData["Title"] = "Create Course";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/theme.css" />
+}
+
+<div class="page-container">
+
+    <h2>Yeni Kurs Oluştur</h2>
+
+    <form asp-action="CreateCourse" method="post">
+
+        <div class="form-group">
+            <label asp-for="CourseName" class="control-label"></label>
+            <input asp-for="CourseName" class="form-control" />
+            <span asp-validation-for="CourseName" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-2">Kaydet</button>
+        <a asp-action="Index" class="btn btn-secondary mt-2">İptal</a>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

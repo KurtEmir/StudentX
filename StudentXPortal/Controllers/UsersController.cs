@@ -114,6 +114,7 @@ namespace StudentX.StudentXPortal.Controllers
             }
 
             user.IsDeleted = true;
+            user.DeletedDate = DateTime.UtcNow;
 
             await _context.SaveChangesAsync();
 
