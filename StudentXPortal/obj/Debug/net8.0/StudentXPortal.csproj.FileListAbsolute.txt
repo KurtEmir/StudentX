@@ -137,3 +137,4 @@
 /Users/emir/Desktop/StudentX/StudentXPortal/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/emir/Desktop/StudentX/StudentXPortal/obj/Debug/net8.0/StudentXPortal.csproj.AssemblyReference.cache
 /Users/emir/Desktop/StudentX/StudentXPortal/obj/Debug/net8.0/StudentX.F6B8C29A.Up2Date
+/Users/emir/Desktop/StudentX/StudentXPortal/obj/Debug/net8.0/StudentXPortal.sourcelink.json

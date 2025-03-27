@@ -1,1 +1,31 @@
-<h1>Başarıyla Öğrenci Eklendi</h1>
+@model IEnumerable<StudentX.StudentXPortal.Models.User>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Ad</th>
+            <th>Kullanıcı Tipi</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.UserName</td>
+                <td>@user.UserType</td>
+                <td>
+                    <a asp-action="UpdateUser" asp-route-id="@user.Id" class="btn btn-sm btn-warning">Düzenle</a>
+
+                    <form asp-action="DeleteUser" asp-route-id="@user.Id" method="post" style="display:inline;">
+                        @Html.AntiForgeryToken()
+                        <button type="submit" class="btn btn-sm btn-danger"
+                            onclick="return confirm('Bu kullanıcıyı silmek istediğinize emin misiniz?');">
+                            Sil
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

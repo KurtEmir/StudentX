@@ -58,13 +58,94 @@ namespace StudentX.StudentXPortal.Controllers
             return RedirectToAction("Index", "Users");
         }
 
-
-
-        [NonAction]
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        [HttpGet("UpdateUser/{id}")]
+        public async Task<IActionResult> UpdateUser(int id)
         {
-            return View("Error!");
+            var user = await _context.Users.FindAsync(id);  //FirstOrDefaultAsync yerine daha performanslı
+
+            if (user == null)
+            {
+                return NotFound("Kullanıcı Bulunamadı");
+            }
+
+            return View(user);
         }
+
+        [HttpPost("UpdateUser/{id}")]
+        public async Task<IActionResult> UpdateUser(int id, User updatedUser)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(updatedUser);
+            }
+
+            var user = await _context.Users.FindAsync(id);  //FirstOrDefaultAsync yerine daha performanslı
+
+
+            if (user == null)
+            {
+                return NotFound("Kullanıcı Bulunamadı");
+            }
+
+            user.UserName = updatedUser.UserName;
+            user.Password = updatedUser.Password;
+            user.UserType = updatedUser.UserType;
+
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index", "Users");
+        }
+
+
+        [HttpPost("DeleteUser/{id}")]
+        public async Task<IActionResult> DeleteUser(int id)
+        {
+            var user = await _context.Users.FirstOrDefaultAsync(i => i.Id = id && !i.IsDeleted);
+
+            if (user == null)
+            {
+                return NotFound("Kullanıcı Bulunamadı");
+            }
+
+            user.IsDeleted = true;
+
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index", "Users");
+        }
+
+
+
+
+
+
+        // API için yazdık
+        // [HttpGet("GetUsers")]
+        // public async Task<IActionResult> GetUsers()
+        // {
+        //     var users = await _context.Users.AsNoTracking().Where(i => !i.IsDeleted).ToListAsync();
+
+        //     if (!users.Any())
+        //     {
+        //         return NotFound("Kullanıcılar bulunamadı");
+        //     }
+
+
+        //     return View(users);
+        // }
+
+        // [HttpGet("GetUserById/{id}")]
+        // public async Task<IActionResult> GetUserById(int id)
+        // {
+        //     var user = await _context.Users.AsNoTracking().FirstOrDefaultAsync((i => i.Id == id && !i.IsDeleted));
+
+        //     if (user == null)
+        //     {
+        //         return NotFound("Kullanıcı Bulunamadı");
+        //     }
+
+        //     return View(user);
+        // }
+
     }
 }
