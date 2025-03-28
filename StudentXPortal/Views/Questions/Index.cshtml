@@ -1,0 +1,21 @@
+@model StudentX.StudentXPortal.Models.Question
+@{
+    ViewData["Title"] = "Courses List";
+    var courses = ViewBag.Courses as List<StudentX.StudentXPortal.Models.Course>;
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/theme.css" />
+}
+<div class="page-container">
+
+    <h2>Hangi kursa içerik eklemek istiyorsunuz?</h2>
+
+
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
