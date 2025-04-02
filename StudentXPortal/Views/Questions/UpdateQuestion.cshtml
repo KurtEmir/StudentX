@@ -1,0 +1,28 @@
+@model StudentX.StudentXPortal.Models.ViewModels.UpdateQuestionViewModel
+
+@{
+    ViewData["Title"] = "Update Question";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/theme.css" />
+}
+<div class="page-container">
+
+    <form asp-action="UpdateQuestion" method="post">
+
+        <div class="form-group mt-3">
+            <label asp-for="QuestionSentence">Soru (İçerik)</label>
+            <textarea asp-for="QuestionSentence" class="form-control" rows="4"></textarea>
+            <span asp-validation-for="QuestionSentence" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-3">İçeriği Güncelle</button>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,5 +1,18 @@
 -Answer controller and view
--Question controller and view (Create function and view is created +)
+-Question controller and view (Create function and view is created + index delete ve diğer sayfalar da yapılacak) +++
 -View Upgrade
 -Öğrencilere kurs atamaları
--
+
+
+
+Questions 
+-Seçtiğimiz Kursa göre içerik ekleme +++
+-İçerik Silme +++
+-İçerik Güncelleme +++
+-Seçtiğimiz Kursa göre içerik listeleme +++
+
+Courses 
+-CRUD +++
+
+Users
+-CRUD +++

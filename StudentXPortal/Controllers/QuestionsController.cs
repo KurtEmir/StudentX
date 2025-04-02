@@ -25,7 +25,12 @@ namespace StudentX.StudentXPortal.Controllers
         [HttpGet("Index")]
         public async Task<IActionResult> Index()
         {
-            return View();
+            var courses = await _context.Courses
+                           .Where(c => !c.IsDeleted)
+                           .AsNoTracking()
+                           .ToListAsync();
+
+            return View(courses);
         }
 
 
@@ -69,17 +74,18 @@ namespace StudentX.StudentXPortal.Controllers
         {
             var question = await _context.Questions.FindAsync(id);
             if (question == null)
-                return NotFound("Soru bulunamadı.");
+                return NotFound("İçerik bulunamadı.");
 
-            ViewBag.Courses = await _context.Courses
-                .Where(c => !c.IsDeleted)
-                .ToListAsync();
+            var viewModel = new UpdateQuestionViewModel
+            {
+                QuestionSentence = question.QuestionSentence
+            };
 
-            return View(question);
+            return View(viewModel);
         }
 
         [HttpPost("UpdateQuestion/{id}")]
-        public async Task<IActionResult> UpdateQuestion(int id, Question updatedQuestion)
+        public async Task<IActionResult> UpdateQuestion(int id, UpdateQuestionViewModel updatedQuestion)
         {
             if (!ModelState.IsValid)
             {
@@ -92,10 +98,9 @@ namespace StudentX.StudentXPortal.Controllers
 
             var question = await _context.Questions.FindAsync(id);
             if (question == null)
-                return NotFound("Soru bulunamadı.");
+                return NotFound("İçerik bulunamadı.");
 
             question.QuestionSentence = updatedQuestion.QuestionSentence;
-            question.CourseId = updatedQuestion.CourseId;
 
             await _context.SaveChangesAsync();
 
@@ -116,5 +121,26 @@ namespace StudentX.StudentXPortal.Controllers
 
             return RedirectToAction("Index", "Questions");
         }
+
+        [HttpGet("SeeCourseContents/{id}")]
+        public async Task<IActionResult> SeeCourseContents(int id)
+        {
+            var course = await _context.Courses.FindAsync(id);
+            if (course == null) return NotFound();
+
+            ViewBag.courseId = course.Id;
+
+
+            var contentList = await _context.Questions
+            .Include(q => q.Answers)
+            .Where(q => q.CourseId == id && !q.IsDeleted)
+            .ToListAsync();
+
+            if (contentList == null || !contentList.Any())
+                return NotFound("İçerik bulunamadı.");
+
+            return View(contentList);
+        }
+
     }
 }
