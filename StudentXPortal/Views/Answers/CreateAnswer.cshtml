@@ -1,0 +1,40 @@
+@model StudentX.StudentXPortal.Models.ViewModels.CreateAnswerViewModel
+
+@{
+    ViewData["Title"] = "Create Answer";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/theme.css" />
+}
+<div class="page-container">
+
+
+
+    <h2>İçeriğe Cevap Ekle</h2>
+
+    <p><strong>Soru:</strong> @ViewBag.QuestionSentence</p>
+
+    <form asp-action="CreateAnswer" asp-route-questionId="@Model.QuestionId" method="post">
+
+        <input type="hidden" asp-for="QuestionId" />
+
+        <div class="form-group">
+            <label asp-for="Option">Şık</label>
+            <textarea asp-for="Option" class="form-control" rows="2"></textarea>
+        </div>
+
+        <div class="form-check mt-2">
+            <input asp-for="IsCorrect" class="form-check-input" />
+            <label asp-for="IsCorrect" class="form-check-label">Doğru Cevap mı?</label>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-3">Kaydet</button>
+    </form>
+
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -20,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[/Users/emir/Desktop/StudentX/StudentXPortal/Views/Answers/CreateAnswer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5zd2Vycy9DcmVhdGVBbnN3ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emir/Desktop/StudentX/StudentXPortal/Views/Answers/UpdateAnswer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5zd2Vycy9VcGRhdGVBbnN3ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/emir/Desktop/StudentX/StudentXPortal/Views/Courses/CreateCourse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlcy9DcmVhdGVDb3Vyc2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
