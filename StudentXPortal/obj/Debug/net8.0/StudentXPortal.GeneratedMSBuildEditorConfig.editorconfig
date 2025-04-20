@@ -28,6 +28,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5zd2Vycy9VcGRhdGVBbnN3ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/emir/Desktop/StudentX/StudentXPortal/Views/Assignments/AssignCourseToUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNzaWdubWVudHMvQXNzaWduQ291cnNlVG9Vc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emir/Desktop/StudentX/StudentXPortal/Views/Assignments/UsersAndCoursesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNzaWdubWVudHMvVXNlcnNBbmRDb3Vyc2VzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/emir/Desktop/StudentX/StudentXPortal/Views/Courses/CreateCourse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlcy9DcmVhdGVDb3Vyc2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

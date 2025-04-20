@@ -1,0 +1,39 @@
+@model StudentX.StudentXPortal.Models.ViewModels.AssignCourseToUserViewModel
+
+@{
+    ViewData["Title"] = "Assign Course to User";
+}
+@section Styles {
+    <link rel="stylesheet" href="~/css/theme.css" />
+}
+
+<div class="page-container">
+
+    <h2>Kullanıcıya Kurs Ata</h2>
+
+    <form asp-action="AssignCourseToUser" method="post">
+        <div class="form-group">
+            <label for="SelectedUserId">Öğrenci Seç</label>
+            <select asp-for="SelectedUserId" class="form-control"
+                asp-items="@(new SelectList(Model.Users, "Id", "UserName"))">
+                <option value="">-- Öğrenci Seç --</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="SelectedCourseId">Kurs Seç</label>
+            <select asp-for="SelectedCourseId" class="form-control"
+                asp-items="@(new SelectList(Model.Courses, "Id", "CourseName"))">
+                <option value="">-- Kurs Seç --</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-3">Atama Yap</button>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

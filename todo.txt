@@ -15,4 +15,12 @@ Courses
 
 Users
 -CRUD +++
+-Index sayfasına Kullanıcı Ekle butonu lazım
+
+
+Atama İşlemleri 
+- Öğrenci ve Kurs Listesi sayfası +++
+- Kurs Atama sayfası +++
+- Atanan Kursu İptal Etme İşlemi 
+- Birden Fazla Kurs Atama Sayfası (Sonrası İçin)
 

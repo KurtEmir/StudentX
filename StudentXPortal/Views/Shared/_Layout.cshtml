@@ -26,23 +26,7 @@
                                 <i class="menu_main_item"></i> Ana Sayfa
                             </a>
                         </li>
-                        <!-- Eğitim İşlemleri -->
-                        <li class="has-sub">
-                            <a class="js-submenu" href="#">
-                                <i class="menu_main_item"></i> Eğitim İşlemleri
-                            </a>
-                            <ul class="list-unstyled navbar__sub-list js-sub-list">
-                                <li>
-                                    <a asp-controller="Educations" asp-action="Create">Eğitim Ekle</a>
-                                </li>
-                                <li>
-                                    <a asp-controller="Educations" asp-action="Index">Eğitim İçeriği Ekle</a>
-                                </li>
-                                <li>
-                                    <a asp-controller="Educations" asp-action="Index">Eğitim Listesi</a>
-                                </li>
-                            </ul>
-                        </li>
+
                         <!-- Öğrenci İşlemleri -->
                         <li class="has-sub">
                             <a class="js-submenu" href="#">
@@ -50,13 +34,14 @@
                             </a>
                             <ul class="list-unstyled navbar__sub-list js-sub-list">
                                 <li>
-                                    <a asp-controller="Users" asp-action="CreateUser">Kullanıcı Ekle</a>
+                                    <a asp-controller="Users" asp-action="Index">Kullanıcı Listesi</a>
                                 </li>
                                 <li>
-                                    <a asp-controller="Users" asp-action="Index">Kullanıcı Listesi</a>
+                                    <a asp-controller="Users" asp-action="CreateUser">Kullanıcı Ekle</a>
                                 </li>
                             </ul>
                         </li>
+
                         <!-- Kurs İşlemleri -->
                         <li class="has-sub">
                             <a class="js-submenu" href="#">
@@ -64,27 +49,36 @@
                             </a>
                             <ul class="list-unstyled navbar__sub-list js-sub-list">
                                 <li>
-                                    <a asp-controller="Courses" asp-action="CreateCourse">Kurs Ekle</a>
+                                    <a asp-controller="Courses" asp-action="Index">Kurs Listesi</a>
                                 </li>
                                 <li>
-                                    <a asp-controller="Courses" asp-action="Index">Kurs Listesi</a>
+                                    <a asp-controller="Courses" asp-action="CreateCourse">Kurs Ekle</a>
                                 </li>
                                 <li>
                                     <a asp-controller="Questions" asp-action="Index">İçerik Ekle</a>
                                 </li>
-                            </ul>
-                        </li>
-                        <!-- İçerik İşlemleri -->
-                        <li class="has-sub">
-                            <a class="js-submenu" href="#">
-                                <i class="menu_main_item"></i> İçerik İşlemleri
-                            </a>
-                            <ul class="list-unstyled navbar__sub-list js-sub-list">
                                 <li>
-                                    <a asp-controller="Questions" asp-action="Index">İçerik Listesi</a>
+                                    <a asp-controller="Courses" asp-action="Index">Kurs Atama İşlemleri</a>
                                 </li>
                             </ul>
                         </li>
+
+                        <!-- Kurs Atama İşlemleri -->
+                        <li class="has-sub">
+                            <a class="js-submenu" href="#">
+                                <i class="menu_main_item"></i> Kurs Atama İşlemleri
+                            </a>
+                            <ul class="list-unstyled navbar__sub-list js-sub-list">
+                                <li>
+                                    <a asp-controller="Assignments" asp-action="UsersAndCoursesList">Öğrenci - Kurs
+                                        Listesi</a>
+                                </li>
+                                <li>
+                                    <a asp-controller="Assignments" asp-action="AssignCourseToUser">Kurs Ata</a>
+                                </li>
+                            </ul>
+                        </li>
+
                     </ul>
                 </nav>
             </div>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6HxkQSvsEQE=",
+  "dgSpecHash": "S1xTU3NYItk=",
   "success": true,
-  "projectFilePath": "/Users/emir/Desktop/ProductsAPI/ProductsAPI.csproj",
+  "projectFilePath": "/Users/emir/Desktop/StudentX/StudentXAPI/ProductsAPI.csproj",
   "expectedPackageFiles": [
     "/Users/emir/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/emir/.nuget/packages/microsoft.aspnetcore.openapi/8.0.13/microsoft.aspnetcore.openapi.8.0.13.nupkg.sha512",

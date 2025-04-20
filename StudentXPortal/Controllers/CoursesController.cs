@@ -107,5 +107,7 @@ namespace StudentX.StudentXPortal.Controllers
 
             return RedirectToAction("Index", "Courses");
         }
+
+
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emir/Desktop/ProductsAPI/ProductsAPI.csproj": {}
+    "/Users/emir/Desktop/StudentX/StudentXAPI/ProductsAPI.csproj": {}
   },
   "projects": {
-    "/Users/emir/Desktop/ProductsAPI/ProductsAPI.csproj": {
+    "/Users/emir/Desktop/StudentX/StudentXAPI/ProductsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emir/Desktop/ProductsAPI/ProductsAPI.csproj",
+        "projectUniqueName": "/Users/emir/Desktop/StudentX/StudentXAPI/ProductsAPI.csproj",
         "projectName": "ProductsAPI",
-        "projectPath": "/Users/emir/Desktop/ProductsAPI/ProductsAPI.csproj",
+        "projectPath": "/Users/emir/Desktop/StudentX/StudentXAPI/ProductsAPI.csproj",
         "packagesPath": "/Users/emir/.nuget/packages/",
-        "outputPath": "/Users/emir/Desktop/ProductsAPI/obj/",
+        "outputPath": "/Users/emir/Desktop/StudentX/StudentXAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emir/.nuget/NuGet/NuGet.Config"

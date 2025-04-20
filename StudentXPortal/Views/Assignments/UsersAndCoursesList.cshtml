@@ -1,0 +1,50 @@
+@model IEnumerable<StudentX.StudentXPortal.Models.UserCourse>
+
+@{
+    ViewData["Title"] = "Kullanıcı - Kurs Atamaları";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/theme.css" />
+}
+
+<div class="page-container">
+
+    <h2>Kullanıcılara Atanmış Kurslar</h2>
+
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-striped table-bordered mt-3">
+            <thead>
+                <tr>
+                    <th>Kullanıcı Adı</th>
+                    <th>Kurs Adı</th>
+                    <th>Atama Tarihi</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.User?.UserName</td>
+                        <td>@item.Course?.CourseName</td>
+                        <td>@item.CreatedDate.ToString("dd.MM.yyyy HH:mm")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-info mt-3">
+            Henüz kullanıcı-kurs ataması yapılmamış.
+        </div>
+    }
+
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
