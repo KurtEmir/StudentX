@@ -1,0 +1,6 @@
+@StudentXAPI_HostAddress = http://localhost:5172
+
+GET {{StudentXAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -22,6 +22,12 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+builder.Services.AddHttpClient("StudentXAPI", client =>
+{
+    client.BaseAddress = new Uri("https://localhost:5172"); // API projesinin https portu
+});
+
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 

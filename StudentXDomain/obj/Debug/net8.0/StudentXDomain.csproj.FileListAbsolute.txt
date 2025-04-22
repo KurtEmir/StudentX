@@ -1,0 +1,13 @@
+/Users/emir/Desktop/StudentX/StudentXDomain/bin/Debug/net8.0/StudentXDomain.deps.json
+/Users/emir/Desktop/StudentX/StudentXDomain/bin/Debug/net8.0/StudentXDomain.dll
+/Users/emir/Desktop/StudentX/StudentXDomain/bin/Debug/net8.0/StudentXDomain.pdb
+/Users/emir/Desktop/StudentX/StudentXDomain/obj/Debug/net8.0/StudentXDomain.csproj.AssemblyReference.cache
+/Users/emir/Desktop/StudentX/StudentXDomain/obj/Debug/net8.0/StudentXDomain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emir/Desktop/StudentX/StudentXDomain/obj/Debug/net8.0/StudentXDomain.AssemblyInfoInputs.cache
+/Users/emir/Desktop/StudentX/StudentXDomain/obj/Debug/net8.0/StudentXDomain.AssemblyInfo.cs
+/Users/emir/Desktop/StudentX/StudentXDomain/obj/Debug/net8.0/StudentXDomain.csproj.CoreCompileInputs.cache
+/Users/emir/Desktop/StudentX/StudentXDomain/obj/Debug/net8.0/StudentXDomain.sourcelink.json
+/Users/emir/Desktop/StudentX/StudentXDomain/obj/Debug/net8.0/StudentXDomain.dll
+/Users/emir/Desktop/StudentX/StudentXDomain/obj/Debug/net8.0/refint/StudentXDomain.dll
+/Users/emir/Desktop/StudentX/StudentXDomain/obj/Debug/net8.0/StudentXDomain.pdb
+/Users/emir/Desktop/StudentX/StudentXDomain/obj/Debug/net8.0/ref/StudentXDomain.dll

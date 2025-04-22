@@ -1502,6 +1502,20 @@
             "rid": "win"
           }
         }
+      },
+      "StudentXDomain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.8",
+          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.8"
+        },
+        "compile": {
+          "bin/placeholder/StudentXDomain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentXDomain.dll": {}
+        }
       }
     }
   },
@@ -4096,6 +4110,11 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "StudentXDomain/1.0.0": {
+      "type": "project",
+      "path": "../StudentXDomain/StudentXDomain.csproj",
+      "msbuildProject": "../StudentXDomain/StudentXDomain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4103,7 +4122,8 @@
       "Microsoft.EntityFrameworkCore >= 8.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.8",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.8"
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.8",
+      "StudentXDomain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4130,7 +4150,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/emir/Desktop/StudentX/StudentXDomain/StudentXDomain.csproj": {
+              "projectPath": "/Users/emir/Desktop/StudentX/StudentXDomain/StudentXDomain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
