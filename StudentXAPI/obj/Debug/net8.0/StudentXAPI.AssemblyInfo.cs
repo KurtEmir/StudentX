@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentXAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95854375c7e16e8680548329da764ac997416ba0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9234d8443de032187be2e9bfd02a9c6813039fd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentXAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentXAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using StudentX.StudentXDomain.Data;
 using StudentX.StudentXDomain.Models;
+using StudentX.StudentXDomain.Models.DTOs;
+
 
 namespace StudentXAPI.Controllers
 {
@@ -42,6 +44,7 @@ namespace StudentXAPI.Controllers
                 return NotFound();
 
             return Ok(user);
+
         }
 
         // POST: api/users
@@ -56,6 +59,40 @@ namespace StudentXAPI.Controllers
 
             return CreatedAtAction(nameof(GetUser), new { id = user.Id }, user);
         }
+
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateUser(int id, [FromBody] UpdateUserDto updatedUser)
+        {
+            var user = await _context.Users.FindAsync(id);
+            if (user == null)
+                return NotFound();
+
+            user.UserName = updatedUser.UserName;
+            user.Password = updatedUser.Password;
+            user.UserType = updatedUser.UserType;
+            await _context.SaveChangesAsync();
+            return Ok();
+        }
+
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteUser(int id)
+        {
+            var user = await _context.Users.FindAsync(id);
+            if (user == null)
+                return NotFound();
+
+            user.IsDeleted = true;
+            user.DeletedDate = DateTime.UtcNow;
+
+            await _context.SaveChangesAsync();
+            return Ok();
+        }
+
+
+
+
     }
 
 }

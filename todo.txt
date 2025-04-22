@@ -24,3 +24,8 @@ Atama İşlemleri
 - Atanan Kursu İptal Etme İşlemi 
 - Birden Fazla Kurs Atama Sayfası (Sonrası İçin)
 
+
+API CONTROLLERS 
+-User Controller 
+-Course Controller 
+-Content Controller (Question and Answer)
